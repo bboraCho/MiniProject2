@@ -1,0 +1,3 @@
+num,title,price,movieDate
+2,avengers,9000,"2021-04-30 01:18:17"
+3,captain,8000,"2021-04-30 01:25:25"
